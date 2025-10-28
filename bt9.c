@@ -2,7 +2,7 @@
 
 int main() {
     int ngay, thang, nam;
-    int hop_le = 1; // gi? s? ban d?u là h?p l?
+    int hop_le = 1; 
     printf("Nhap ngay: ");
     scanf("%d", &ngay);
     printf("Nhap thang: ");
